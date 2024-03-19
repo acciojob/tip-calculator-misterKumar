@@ -1,0 +1,16 @@
+body {
+  background-color: aliceblue;
+}
+
+#container {
+  width: fit-content;
+  height: fit-content;
+  padding: 0.5em 2em 2em 2em;
+  border: 2px solid navajowhite;
+  border-radius: 10px;
+  margin: 4em auto;
+}
+
+button {
+  margin: 1em 0em;
+}
